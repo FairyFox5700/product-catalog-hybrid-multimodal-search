@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Trail Runner Sneaker",
+    "description": "Lightweight breathable mesh sneaker built for off-road trail running with reinforced rubber outsole grip.",
+    "category": "Shoes",
+    "brand": "Northline",
+    "price": 89.99,
+    "image_path": "sample_images/trail_runner.jpg",
+    "in_stock": true
+  },
+  {
+    "name": "Classic Leather Loafer",
+    "description": "Handcrafted genuine leather loafer with cushioned insole, ideal for business casual wear.",
+    "category": "Shoes",
+    "brand": "Marchetti",
+    "price": 129.0,
+    "image_path": "sample_images/leather_loafer.jpg",
+    "in_stock": true
+  },
+  {
+    "name": "Insulated Puffer Jacket",
+    "description": "Water-resistant puffer jacket with synthetic down fill and adjustable hood for cold-weather commuting.",
+    "category": "Outerwear",
+    "brand": "Northline",
+    "price": 159.5,
+    "image_path": "sample_images/puffer_jacket.jpg",
+    "in_stock": false
+  }
+]
